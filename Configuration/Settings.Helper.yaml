@@ -1,0 +1,4 @@
+Neos:
+  Fusion:
+    defaultContext:
+      Netlogix.AssetCaching: Netlogix\AssetCachingHelper\Helper\AssetCachingHelper
